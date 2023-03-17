@@ -14,5 +14,7 @@
 
 [alpha-3191-3668](https://github.com/AetherSX2-backup/AetherSX2-builds/tree/master/alpha-3191-3668)
 
+[latest version](https://github.com/AetherSX2-backup/AetherSX2-builds/raw/master/alpha-3191-3668/13930-v1.5-3668.apk)
+
 Enjoy Player 🎮
 --------------
